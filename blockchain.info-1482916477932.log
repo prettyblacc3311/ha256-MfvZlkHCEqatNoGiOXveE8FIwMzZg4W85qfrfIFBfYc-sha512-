@@ -1,0 +1,34 @@
+landing-d2bbe63….min.js:365 Using My-Wallet-V3 Frontend v1.10.4 and My-Wallet-V3 v3.25.2, connecting to /
+landing-d2bbe63….min.js:365 Using My-Wallet-V3 Frontend v1.10.4 and My-Wallet-V3 v3.25.2, connecting to /
+https://blockchain.info/wallet/f7cb33c0-7912-44da-9484-1d96554c9251?format=…d_code=null&ct=1482915798679&api_code=1770d5d9-bcea-4d28-ad21-6cbd5be018a8 Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+my-wallet-d296c49….min.js:40 Server Time offset 10822396.75ms - This offset 10822396.75
+https://api.blockchain.info/metadata/177piKu8Xu35EPTrjGPFZvH3MaUf75Fhmj Failed to load resource: the server responded with a status of 404 (Not Found)
+my-wallet-d296c49….min.js:40 Server Time offset 10825540.875ms - This offset 10828685
+wallet-83570e8….min.js:8 Stop!
+wallet-83570e8….min.js:8 This browser feature is intended for developers. If someone told you to copy-paste something here, it is a scam and will give them access to your money!
+landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32 Refused to apply inline style because it violates the following Content Security Policy directive: "style-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-uD+9kGdg1SXQagzGsu2+gAKYXqLRT/E07bh4OhgXN8Y='), or a nonce ('nonce-...') is required to enable inline execution.
+
+Vc @ landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32
+landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32 Refused to apply inline style because it violates the following Content Security Policy directive: "style-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-4IfJmohiqxpxzt6KnJiLmxBD72c3jkRoQ+8K5HT5K8o='), or a nonce ('nonce-...') is required to enable inline execution.
+
+Vc @ landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32
+landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32 Refused to apply inline style because it violates the following Content Security Policy directive: "style-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-uD+9kGdg1SXQagzGsu2+gAKYXqLRT/E07bh4OhgXN8Y='), or a nonce ('nonce-...') is required to enable inline execution.
+
+Vc @ landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32
+landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32 Refused to apply inline style because it violates the following Content Security Policy directive: "style-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-4IfJmohiqxpxzt6KnJiLmxBD72c3jkRoQ+8K5HT5K8o='), or a nonce ('nonce-...') is required to enable inline execution.
+
+Vc @ landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32
+landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32 Refused to apply inline style because it violates the following Content Security Policy directive: "style-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-uD+9kGdg1SXQagzGsu2+gAKYXqLRT/E07bh4OhgXN8Y='), or a nonce ('nonce-...') is required to enable inline execution.
+
+Vc @ landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32
+landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32 Refused to apply inline style because it violates the following Content Security Policy directive: "style-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-4IfJmohiqxpxzt6KnJiLmxBD72c3jkRoQ+8K5HT5K8o='), or a nonce ('nonce-...') is required to enable inline execution.
+
+Vc @ landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32
+my-wallet-d296c49….min.js:40 Server Time offset 10824267.3125ms - This offset 10822993.75
+landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32 Refused to apply inline style because it violates the following Content Security Policy directive: "style-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-uD+9kGdg1SXQagzGsu2+gAKYXqLRT/E07bh4OhgXN8Y='), or a nonce ('nonce-...') is required to enable inline execution.
+
+Vc @ landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32
+landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32 Refused to apply inline style because it violates the following Content Security Policy directive: "style-src 'self'". Either the 'unsafe-inline' keyword, a hash ('sha256-4IfJmohiqxpxzt6KnJiLmxBD72c3jkRoQ+8K5HT5K8o='), or a nonce ('nonce-...') is required to enable inline execution.
+
+Vc @ landing-d2bbe6367886681485967444689180dd3b7d1c4d.min.js:32
+DevTools failed to parse SourceMap: https://blockchain.info/wallet/js/angular-sanitize.min.js.map

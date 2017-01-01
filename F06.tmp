@@ -1,0 +1,48 @@
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+googletag.cmd.push(function() {
+  googletag.defineSlot('/111572852/MegaMillionsDesktop', [468, 60], 'div-gpt-ad-1454013450513-0').addService(googletag.pubads());
+  googletag.defineSlot('/111572852/MegaMillionsMobile', [320, 50], 'div-gpt-ad-1454013450513-1').addService(googletag.pubads());
+  googletag.pubads().enableSingleRequest();
+  googletag.enableServices();
+});
+
+function makeAd(adtype, useDimensions) {
+  var adid;
+  var h;
+  var w;
+  if (adtype=="topad") {
+    adid = "div-gpt-ad-1454013450513-0";
+    h = 60;
+    w = 468;
+  } else if (adtype=="mobile-footer") {
+    adid = "div-gpt-ad-1454013450513-1";
+    h = 50;
+    w = 320;
+  } else {
+    return;
+  }
+  var loc = "#" + adtype;
+  if (useDimensions) {
+    $(loc).append('<div id="' + adid + '" style="height:' + h + 'px;width:' + w + 'px"></div>');
+  } else {
+    $(loc).append('<div id="' + adid + '"></div>');
+  }
+  googletag.cmd.push(function() { googletag.display(adid); });
+};
+
+
+$(document).ready(function () {
+  makeAd("topad");
+  makeAd("mobile-footer");
+});

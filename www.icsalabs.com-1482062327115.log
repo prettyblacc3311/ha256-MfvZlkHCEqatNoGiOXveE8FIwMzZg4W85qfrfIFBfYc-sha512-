@@ -1,0 +1,10 @@
+An error occurred when a call to method 'write' was requested
+Error: Snapshot token not found
+    at WebInspector.HeapSnapshotLoader.write (chrome-devtools://devtools/bundled/heap_snapshot_worker.js?remoteBase=https…nd.appspot.com/serve_file/@ad0be09aa3ca814168d079b52825f6f80e22f0e8/:978:7)
+    at WebInspector.HeapSnapshotWorkerDispatcher.dispatchMessage (chrome-devtools://devtools/bundled/heap_snapshot_worker.js?remoteBase=https…appspot.com/serve_file/@ad0be09aa3ca814168d079b52825f6f80e22f0e8/:1019:164)
+An error occurred when a call to method 'buildSnapshot' was requested
+TypeError: Cannot read property 'meta' of undefined
+    at WebInspector.JSHeapSnapshot.WebInspector.HeapSnapshot (chrome-devtools://devtools/bundled/heap_snapshot_worker.js?remoteBase=https…d.appspot.com/serve_file/@ad0be09aa3ca814168d079b52825f6f80e22f0e8/:738:94)
+    at WebInspector.JSHeapSnapshot (chrome-devtools://devtools/bundled/heap_snapshot_worker.js?remoteBase=https…appspot.com/serve_file/@ad0be09aa3ca814168d079b52825f6f80e22f0e8/:1023:121)
+    at WebInspector.HeapSnapshotLoader.buildSnapshot (chrome-devtools://devtools/bundled/heap_snapshot_worker.js?remoteBase=https…d.appspot.com/serve_file/@ad0be09aa3ca814168d079b52825f6f80e22f0e8/:965:70)
+    at WebInspector.HeapSnapshotWorkerDispatcher.dispatchMessage (chrome-devtools://devtools/bundled/heap_snapshot_worker.js?remoteBase=https…appspot.com/serve_file/@ad0be09aa3ca814168d079b52825f6f80e22f0e8/:1018:487)

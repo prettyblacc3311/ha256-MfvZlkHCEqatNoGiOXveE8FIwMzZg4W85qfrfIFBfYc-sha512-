@@ -1,0 +1,33 @@
+scriptInjector.js:188 sI: about to establish extension connection for WIDGET_CONTENT_MESSAGE - url: http://www.openfileoptimizer.com/lp.php?keyword=.DB$
+scriptInjector.js:191 sI: adding WIDGET_CONTENT_MESSAGE message listener
+reservespaceifenabled.js:5 rsie: reserveSpace
+reservespaceifenabled.js:7 rsie: getToolbarData
+reservespaceifenabled.js:66 rsie: leaving js
+scriptInjector.js:188 sI: about to establish extension connection for WIDGET_CONTENT_MESSAGE - url: http://www.openfileoptimizer.com/lp.php?keyword=.DB$
+scriptInjector.js:191 sI: adding WIDGET_CONTENT_MESSAGE message listener
+reservespaceifenabled.js:5 rsie: reserveSpace
+reservespaceifenabled.js:7 rsie: getToolbarData
+reservespaceifenabled.js:66 rsie: leaving js
+reservespaceifenabled.js:15 rsie: getToolbarDataCallback(Arguments[1])
+reservespaceifenabled.js:25 rsie: window.toolbarData: Object
+reservespaceifenabled.js:26 rsie: window.Content: undefined
+reservespaceifenabled.js:35 rsie: getToolbarDataCallback - done
+reservespaceifenabled.js:15 rsie: getToolbarDataCallback(Arguments[1])
+reservespaceifenabled.js:25 rsie: window.toolbarData: Object
+reservespaceifenabled.js:26 rsie: window.Content: undefined
+reservespaceifenabled.js:35 rsie: getToolbarDataCallback - done
+contentScript.js:42 cS: logger: Array[1] : undefined
+contentScript.js:42 cS: logger: Array[1] : undefined
+contentScript.js:42 cS: logger: Array[1] : document ready
+contentScript.js:42 cS: logger: Array[1] : running callback
+contentScript.js:42 cS: logger: Array[1] : undefined
+contentScript.js:42 cS: logger: Array[1] : firing tab complete
+contentScript.js:80 cS: sending TAB_COMPLETE
+contentScript.js:42 cS: logger: Array[1] : undefined
+contentScript.js:42 cS: logger: Array[1] : undefined
+contentScript.js:42 cS: logger: Array[1] : document ready
+contentScript.js:42 cS: logger: Array[1] : running callback
+contentScript.js:42 cS: logger: Array[1]0: Array[1]length: 1__proto__: Array[0] : undefined
+contentScript.js:42 cS: logger: Array[1] : firing tab complete
+contentScript.js:80 cS: sending TAB_COMPLETE
+Failed to save to temp variable.
